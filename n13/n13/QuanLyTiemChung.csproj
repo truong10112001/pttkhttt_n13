@@ -76,6 +76,12 @@
     <Compile Include="fNhanVien_XemLich.Designer.cs">
       <DependentUpon>fNhanVien_XemLich.cs</DependentUpon>
     </Compile>
+    <Compile Include="fYBacSi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fYBacSi.Designer.cs">
+      <DependentUpon>fYBacSi.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fNhanVien_XemLich.resx">
       <DependentUpon>fNhanVien_XemLich.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fYBacSi.resx">
+      <DependentUpon>fYBacSi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
