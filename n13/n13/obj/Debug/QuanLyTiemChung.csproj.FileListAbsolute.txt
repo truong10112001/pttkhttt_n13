@@ -9,3 +9,7 @@ C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\pttkhttt_n13
 C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\pttkhttt_n13\n13\n13\bin\Debug\n13.exe.config
 C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\pttkhttt_n13\n13\n13\bin\Debug\n13.exe
 C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\pttkhttt_n13\n13\n13\bin\Debug\n13.pdb
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\pttkhttt_n13\n13\n13\obj\Debug\n13.fNhanVienDieuHanh.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\pttkhttt_n13\n13\n13\obj\Debug\n13.fNhanVienDieuHanh_SapXepLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\pttkhttt_n13\n13\n13\obj\Debug\n13.fNhanVienDieuHanh_XemLich.resources
+C:\Users\LENOVO\OneDrive\デスクトップ\HK2 2012-2022\pttk httt\pttkhttt_n13\n13\n13\obj\Debug\n13.fNhanVien_XemLich.resources

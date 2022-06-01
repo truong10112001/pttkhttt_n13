@@ -46,11 +46,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="fNhanVienDieuHanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhanVienDieuHanh.Designer.cs">
+      <DependentUpon>fNhanVienDieuHanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhanVienDieuHanh_SapXepLich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhanVienDieuHanh_SapXepLich.Designer.cs">
+      <DependentUpon>fNhanVienDieuHanh_SapXepLich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhanVienDieuHanh_XemLich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhanVienDieuHanh_XemLich.Designer.cs">
+      <DependentUpon>fNhanVienDieuHanh_XemLich.cs</DependentUpon>
+    </Compile>
     <Compile Include="fNhanVien_DangKyLichRanh.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="fNhanVien_DangKyLichRanh.Designer.cs">
       <DependentUpon>fNhanVien_DangKyLichRanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhanVien_XemLich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhanVien_XemLich.Designer.cs">
+      <DependentUpon>fNhanVien_XemLich.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -60,8 +84,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fNhanVienDieuHanh.resx">
+      <DependentUpon>fNhanVienDieuHanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhanVienDieuHanh_SapXepLich.resx">
+      <DependentUpon>fNhanVienDieuHanh_SapXepLich.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhanVienDieuHanh_XemLich.resx">
+      <DependentUpon>fNhanVienDieuHanh_XemLich.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fNhanVien_DangKyLichRanh.resx">
       <DependentUpon>fNhanVien_DangKyLichRanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhanVien_XemLich.resx">
+      <DependentUpon>fNhanVien_XemLich.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
