@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace n13
+{
+    public partial class fNhanVienKeToan_TaoHoaDon : Form
+    {
+        public fNhanVienKeToan_TaoHoaDon()
+        {
+            InitializeComponent();
+        }
+    }
+}
