@@ -21,10 +21,5 @@ namespace n13
         {
 
         }
-
-        private void buttonDangKyLich_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

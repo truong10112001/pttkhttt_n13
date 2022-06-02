@@ -172,7 +172,7 @@ namespace n13
             this.buttonDangKyLich.TabIndex = 28;
             this.buttonDangKyLich.Text = "Thêm khách hàng và lập phiếu ";
             this.buttonDangKyLich.UseVisualStyleBackColor = false;
-            this.buttonDangKyLich.Click += new System.EventHandler(this.buttonDangKyLich_Click);
+
             // 
             // textBox2
             // 

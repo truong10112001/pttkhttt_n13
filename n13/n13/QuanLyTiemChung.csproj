@@ -64,6 +64,30 @@
     <Compile Include="fNhanVienDieuHanh_XemLich.Designer.cs">
       <DependentUpon>fNhanVienDieuHanh_XemLich.cs</DependentUpon>
     </Compile>
+    <Compile Include="FNhanVienKeToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FNhanVienKeToan.Designer.cs">
+      <DependentUpon>FNhanVienKeToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhanVienKeToan_TaoHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhanVienKeToan_TaoHoaDon.Designer.cs">
+      <DependentUpon>fNhanVienKeToan_TaoHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhanVienTiepTan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhanVienTiepTan.Designer.cs">
+      <DependentUpon>fNhanVienTiepTan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNhanVienTiepTan_PhieuDangKi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNhanVienTiepTan_PhieuDangKi.Designer.cs">
+      <DependentUpon>fNhanVienTiepTan_PhieuDangKi.cs</DependentUpon>
+    </Compile>
     <Compile Include="fNhanVien_DangKyLichRanh.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +122,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fNhanVienDieuHanh_XemLich.resx">
       <DependentUpon>fNhanVienDieuHanh_XemLich.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FNhanVienKeToan.resx">
+      <DependentUpon>FNhanVienKeToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhanVienKeToan_TaoHoaDon.resx">
+      <DependentUpon>fNhanVienKeToan_TaoHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhanVienTiepTan.resx">
+      <DependentUpon>fNhanVienTiepTan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNhanVienTiepTan_PhieuDangKi.resx">
+      <DependentUpon>fNhanVienTiepTan_PhieuDangKi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fNhanVien_DangKyLichRanh.resx">
       <DependentUpon>fNhanVien_DangKyLichRanh.cs</DependentUpon>
